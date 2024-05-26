@@ -1,0 +1,277 @@
+User1;Party1;User2;Party2;MutualMentionCount
+Sophie Rohonyi;DéFI;François De Smet;DéFI;2016
+François De Smet;DéFI;Sophie Rohonyi;DéFI;2016
+Raoul Hedebouw;PVDA-PTB;Peter Mertens MP;PVDA-PTB;646
+Peter Mertens MP;PVDA-PTB;Raoul Hedebouw;PVDA-PTB;646
+Sander Loones;N-VA;Theo Francken MP;N-VA;352
+Theo Francken MP;N-VA;Sander Loones;N-VA;352
+Raoul Hedebouw;PVDA-PTB;Sofie Merckx;PVDA-PTB;324
+Sofie Merckx;PVDA-PTB;Raoul Hedebouw;PVDA-PTB;324
+Darya Safai MP;N-VA;Theo Francken MP;N-VA;80
+Theo Francken MP;N-VA;Darya Safai MP;N-VA;80
+Sofie Merckx;PVDA-PTB;Nabil Boukili;PVDA-PTB;80
+Nabil Boukili;PVDA-PTB;Sofie Merckx;PVDA-PTB;80
+Catherine Fonck;Les Engagés;Patrick Prévot;PS;72
+Patrick Prévot;PS;Catherine Fonck;Les Engagés;72
+Anja Vanrobaeys;Vooruit;Joris Vandenbroucke;Vooruit;40
+Joris Vandenbroucke;Vooruit;Anja Vanrobaeys;Vooruit;40
+Peter Buysrogge ;N-VA;Theo Francken MP;N-VA;32
+Ahmed Laaouej;PS;Patrick Prévot;PS;32
+Theo Francken MP;N-VA;Peter Buysrogge ;N-VA;32
+Patrick Prévot;PS;Ahmed Laaouej;PS;32
+Séverine de Laveleye;Ecolo-Groen;Sophie Rohonyi;DéFI;30
+Sophie Rohonyi;DéFI;Séverine de Laveleye;Ecolo-Groen;30
+Theo Francken MP;N-VA;Egbert Lachaert;Open Vld;30
+Egbert Lachaert;Open Vld;Theo Francken MP;N-VA;30
+Catherine Fonck;Les Engagés;Sophie Rohonyi;DéFI;28
+Michael Freilich;N-VA;Theo Francken MP;N-VA;28
+Theo Francken MP;N-VA;Michael Freilich;N-VA;28
+Sophie Rohonyi;DéFI;Catherine Fonck;Les Engagés;28
+Kristien Van Vaerenbergh;N-VA;Theo Francken MP;N-VA;24
+Theo Francken MP;N-VA;Kristien Van Vaerenbergh;N-VA;24
+Sander Loones;N-VA;Egbert Lachaert;Open Vld;21
+Egbert Lachaert;Open Vld;Sander Loones;N-VA;21
+Roberto D'Amico;PVDA-PTB;Sofie Merckx;PVDA-PTB;21
+Sofie Merckx;PVDA-PTB;Roberto D'Amico;PVDA-PTB;21
+Nadia Moscufo;PVDA-PTB;Sofie Merckx;PVDA-PTB;20
+Sofie Merckx;PVDA-PTB;Nadia Moscufo;PVDA-PTB;20
+Sigrid Goethals;N-VA;Theo Francken MP;N-VA;20
+Theo Francken MP;N-VA;Sigrid Goethals;N-VA;20
+Tomas Roggeman;N-VA;Theo Francken MP;N-VA;19
+Theo Francken MP;N-VA;Tomas Roggeman;N-VA;19
+Theo Francken MP;N-VA;Ortwin Depoortere;VB;18
+kathleen depoorter;N-VA;Frieda Gijbels;N-VA;18
+Egbert Lachaert;Open Vld;Robby De Caluwé;Open Vld;18
+Ortwin Depoortere;VB;Theo Francken MP;N-VA;18
+Frieda Gijbels;N-VA;kathleen depoorter;N-VA;18
+Robby De Caluwé;Open Vld;Egbert Lachaert;Open Vld;18
+Ortwin Depoortere;VB;Barbara Pas;VB;16
+Barbara Pas;VB;Ortwin Depoortere;VB;16
+Ahmed Laaouej;PS;Ben Achour Malik;PS;15
+Ben Achour Malik;PS;Ahmed Laaouej;PS;15
+Barbara Pas;VB;Dominiek Sneppe;VB;14
+Sophie Rohonyi;DéFI;Marie Christine Marghem;MR;14
+Dominiek Sneppe;VB;Barbara Pas;VB;14
+Marie Christine Marghem;MR;Sophie Rohonyi;DéFI;14
+Georges Dallemagne;Les Engagés;Catherine Fonck;Les Engagés;12
+Theo Francken MP;N-VA;Denis Ducarme;MR;12
+Denis Ducarme;MR;Theo Francken MP;N-VA;12
+Catherine Fonck;Les Engagés;Georges Dallemagne;Les Engagés;12
+Joris De Vriendt;VB;Barbara Pas;VB;11
+Barbara Pas;VB;Joris De Vriendt;VB;11
+Barbara Pas;VB;Frank Troosters;VB;11
+Frank Troosters;VB;Barbara Pas;VB;11
+Gilles Vanden Burre;Ecolo-Groen;Séverine de Laveleye;Ecolo-Groen;10
+Séverine de Laveleye;Ecolo-Groen;Gilles Vanden Burre;Ecolo-Groen;10
+Maria Vindevoghel;PVDA-PTB;Sofie Merckx;PVDA-PTB;10
+Sofie Merckx;PVDA-PTB;Maria Vindevoghel;PVDA-PTB;10
+Joris De Vriendt;VB;Katleen Bury;VB;9
+Sofie Merckx;PVDA-PTB;Peter Mertens MP;PVDA-PTB;9
+Katleen Bury;VB;Joris De Vriendt;VB;9
+Samuel Cogolati;Ecolo-Groen;Sarah Schlitz;Ecolo-Groen;9
+Sarah Schlitz;Ecolo-Groen;Samuel Cogolati;Ecolo-Groen;9
+Wouter Beke;cd&v;Koen Geens;cd&v;9
+Frieda Gijbels;N-VA;Theo Francken MP;N-VA;9
+Theo Francken MP;N-VA;Frieda Gijbels;N-VA;9
+Peter Mertens MP;PVDA-PTB;Sofie Merckx;PVDA-PTB;9
+Koen Geens;cd&v;Wouter Beke;cd&v;9
+Frank Troosters;VB;Ortwin Depoortere;VB;8
+Mieke Claes;N-VA;Frieda Gijbels;N-VA;8
+Peter De Roover;N-VA;Sander Loones;N-VA;8
+Sander Loones;N-VA;Peter De Roover;N-VA;8
+Ortwin Depoortere;VB;Frank Troosters;VB;8
+Frieda Gijbels;N-VA;Mieke Claes;N-VA;8
+Koen Geens;cd&v;Jef Van den Bergh ;cd&v;7
+Jef Van den Bergh ;cd&v;Koen Geens;cd&v;7
+Peter De Roover;N-VA;Sophie De Wit;N-VA;6
+Annick Ponthier;VB;Barbara Pas;VB;6
+Eva Platteau;Ecolo-Groen;Theo Francken MP;N-VA;6
+Theo Francken MP;N-VA;Eva Platteau;Ecolo-Groen;6
+Piedboeuf Benoît;MR;Sophie Wilmès;MR;6
+Sophie Wilmès;MR;Piedboeuf Benoît;MR;6
+Valerie Van Peel;N-VA;Catherine Fonck;Les Engagés;6
+Samuel Cogolati;Ecolo-Groen;Gilles Vanden Burre;Ecolo-Groen;6
+Marco Van Hees;PVDA-PTB;Marie Christine Marghem;MR;6
+Marie Christine Marghem;MR;Marco Van Hees;PVDA-PTB;6
+Barbara Pas;VB;Annick Ponthier;VB;6
+Maxime PREVOT;Les Engagés;François De Smet;DéFI;6
+Catherine Fonck;Les Engagés;Valerie Van Peel;N-VA;6
+Sophie De Wit;N-VA;Peter De Roover;N-VA;6
+Gilles Vanden Burre;Ecolo-Groen;Samuel Cogolati;Ecolo-Groen;6
+François De Smet;DéFI;Maxime PREVOT;Les Engagés;6
+Melissa Depraetere;Vooruit;Joris Vandenbroucke;Vooruit;5
+Servais Verherstraeten;cd&v;Koen Geens;cd&v;5
+Koen Geens;cd&v;Servais Verherstraeten;cd&v;5
+Katja Gabriëls;Open Vld;Egbert Lachaert;Open Vld;5
+Egbert Lachaert;Open Vld;Katja Gabriëls;Open Vld;5
+Joris Vandenbroucke;Vooruit;Melissa Depraetere;Vooruit;5
+Barbara Pas;VB;Hans Verreyt;VB;4
+Daniel Bacquelaine;MR;Mathieu Bihet;MR;4
+Mathieu Bihet;MR;Daniel Bacquelaine;MR;4
+Hans Verreyt;VB;Barbara Pas;VB;4
+Koen Geens;cd&v;Katja Gabriëls;Open Vld;4
+Tim Vandenput;Open Vld;Theo Francken MP;N-VA;4
+Khalil Aouasti;PS;Ahmed Laaouej;PS;4
+Sofie Merckx;PVDA-PTB;Greet Daems;PVDA-PTB;4
+Katja Gabriëls;Open Vld;Koen Geens;cd&v;4
+Ahmed Laaouej;PS;Khalil Aouasti;PS;4
+Theo Francken MP;N-VA;Tim Vandenput;Open Vld;4
+Frank Troosters;VB;Annick Ponthier;VB;4
+Greet Daems;PVDA-PTB;Sofie Merckx;PVDA-PTB;4
+Annick Ponthier;VB;Frank Troosters;VB;4
+Piedboeuf Benoît;MR;Marie Christine Marghem;MR;3
+Catherine Fonck;Les Engagés;Sofie Merckx;PVDA-PTB;3
+Tomas Roggeman;N-VA;Peter De Roover;N-VA;3
+Theo Francken MP;N-VA;Kris Verduyckt;Vooruit;3
+Marie Christine Marghem;MR;Piedboeuf Benoît;MR;3
+Egbert Lachaert;Open Vld;Koen Geens;cd&v;3
+Peter De Roover;N-VA;Tomas Roggeman;N-VA;3
+Katja Gabriëls;Open Vld;Robby De Caluwé;Open Vld;3
+Tania De Jonge;Open Vld;Vincent Van Quickenborne;Open Vld;3
+Koen Geens;cd&v;Egbert Lachaert;Open Vld;3
+Tania De Jonge;Open Vld;Maggie De Block;Open Vld;3
+Vincent Van Quickenborne;Open Vld;Tania De Jonge;Open Vld;3
+Nathalie Muylle;cd&v;Franky Demon;cd&v;3
+Franky Demon;cd&v;Nathalie Muylle;cd&v;3
+Robby De Caluwé;Open Vld;Katja Gabriëls;Open Vld;3
+Sofie Merckx;PVDA-PTB;Catherine Fonck;Les Engagés;3
+Maggie De Block;Open Vld;Tania De Jonge;Open Vld;3
+Kris Verduyckt;Vooruit;Theo Francken MP;N-VA;3
+Kristof Calvo;Ecolo-Groen;Ben Segers;Vooruit;2
+Michael Freilich;N-VA;kathleen depoorter;N-VA;2
+Guillaume Defossé;Ecolo-Groen;Piedboeuf Benoît;MR;2
+Ben Segers;Vooruit;Kristof Calvo;Ecolo-Groen;2
+Peter De Roover;N-VA;Frieda Gijbels;N-VA;2
+Michael Freilich;N-VA;Egbert Lachaert;Open Vld;2
+kathleen depoorter;N-VA;Michael Freilich;N-VA;2
+dieter van besien;Ecolo-Groen;Theo Francken MP;N-VA;2
+Hans Verreyt;VB;Wouter Vermeersch;VB;2
+Els Van Hoof;cd&v;Nahima Lanjri;cd&v;2
+Els Van Hoof;cd&v;Egbert Lachaert;Open Vld;2
+Wouter De Vriendt;Ecolo-Groen;Peter Buysrogge ;N-VA;2
+Sofie Merckx;PVDA-PTB;Mathieu Bihet;MR;2
+Annick Ponthier;VB;Marijke Dillen;VB;2
+Sophie De Wit;N-VA;kathleen depoorter;N-VA;2
+Wouter Beke;cd&v;Nathalie Muylle;cd&v;2
+Jean Marie Dedecker;ONAFH;Theo Francken MP;N-VA;2
+François De Smet;DéFI;Theo Francken MP;N-VA;2
+François De Smet;DéFI;Catherine Fonck;Les Engagés;2
+Joris Vandenbroucke;Vooruit;Wim Van der Donckt;N-VA;2
+Theo Francken MP;N-VA;dieter van besien;Ecolo-Groen;2
+Egbert Lachaert;Open Vld;Michael Freilich;N-VA;2
+Samuel Cogolati;Ecolo-Groen;Els Van Hoof;cd&v;2
+Joris Vandenbroucke;Vooruit;Tomas Roggeman;N-VA;2
+Hervé Rigot;PS;Philippe Goffin;MR;2
+Philippe Goffin;MR;Hervé Rigot;PS;2
+Thémont Sophie;PS;Christophe Lacroix;PS;2
+Catherine Fonck;Les Engagés;François De Smet;DéFI;2
+Joris De Vriendt;VB;Pieter De Spiegeleer;VB;2
+Wouter Vermeersch;VB;Hans Verreyt;VB;2
+Raoul Hedebouw;PVDA-PTB;Nadia Moscufo;PVDA-PTB;2
+Frieda Gijbels;N-VA;Peter De Roover;N-VA;2
+Theo Francken MP;N-VA;Jean Marie Dedecker;ONAFH;2
+Mathieu Bihet;MR;Sophie Wilmès;MR;2
+Mathieu Bihet;MR;Gilles Vanden Burre;Ecolo-Groen;2
+Peter Buysrogge ;N-VA;Wouter De Vriendt;Ecolo-Groen;2
+Vincent Van Quickenborne;Open Vld;Peter De Roover;N-VA;2
+Mathieu Bihet;MR;Sofie Merckx;PVDA-PTB;2
+Reccino Van Lommel;VB;Hans Verreyt;VB;2
+Barbara Pas;VB;Katleen Bury;VB;2
+Joris Vandenbroucke;Vooruit;Catherine Fonck;Les Engagés;2
+Catherine Fonck;Les Engagés;Joris Vandenbroucke;Vooruit;2
+Nahima Lanjri;cd&v;Els Van Hoof;cd&v;2
+Patrick Prévot;PS;Denis Ducarme;MR;2
+Tomas Roggeman;N-VA;Eliane Tillieux;PS;2
+kathleen depoorter;N-VA;Sophie De Wit;N-VA;2
+Christophe Lacroix;PS;Thémont Sophie;PS;2
+Egbert Lachaert;Open Vld;Els Van Hoof;cd&v;2
+Eliane Tillieux;PS;Tomas Roggeman;N-VA;2
+Sophie Wilmès;MR;Mathieu Bihet;MR;2
+Marijke Dillen;VB;Annick Ponthier;VB;2
+Gilles Vanden Burre;Ecolo-Groen;Mathieu Bihet;MR;2
+Guillaume Defossé;Ecolo-Groen;Kristof Calvo;Ecolo-Groen;2
+Tomas Roggeman;N-VA;Joris Vandenbroucke;Vooruit;2
+Nadia Moscufo;PVDA-PTB;Raoul Hedebouw;PVDA-PTB;2
+Peter De Roover;N-VA;Vincent Van Quickenborne;Open Vld;2
+Hans Verreyt;VB;Reccino Van Lommel;VB;2
+Piedboeuf Benoît;MR;Guillaume Defossé;Ecolo-Groen;2
+Denis Ducarme;MR;Patrick Prévot;PS;2
+Els Van Hoof;cd&v;Samuel Cogolati;Ecolo-Groen;2
+Wim Van der Donckt;N-VA;Joris Vandenbroucke;Vooruit;2
+Theo Francken MP;N-VA;François De Smet;DéFI;2
+Pieter De Spiegeleer;VB;Joris De Vriendt;VB;2
+Nathalie Muylle;cd&v;Wouter Beke;cd&v;2
+Kristof Calvo;Ecolo-Groen;Guillaume Defossé;Ecolo-Groen;2
+Katleen Bury;VB;Barbara Pas;VB;2
+Séverine de Laveleye;Ecolo-Groen;Sarah Schlitz;Ecolo-Groen;1
+Robby De Caluwé;Open Vld;Frieda Gijbels;N-VA;1
+Marie Christine Marghem;MR;Denis Ducarme;MR;1
+Barbara Pas;VB;Theo Francken MP;N-VA;1
+Sander Loones;N-VA;Robby De Caluwé;Open Vld;1
+Darya Safai MP;N-VA;Michael Freilich;N-VA;1
+Theo Francken MP;N-VA;Barbara Pas;VB;1
+Koen Geens;cd&v;Nahima Lanjri;cd&v;1
+Leslie Leoni;PS;Christophe Lacroix;PS;1
+Sophie Rohonyi;DéFI;Gilles Vanden Burre;Ecolo-Groen;1
+Kristof Calvo;Ecolo-Groen;Gilles Vanden Burre;Ecolo-Groen;1
+Ben Segers;Vooruit;Valerie Van Peel;N-VA;1
+Joris Vandenbroucke;Vooruit;Theo Francken MP;N-VA;1
+Wouter Vermeersch;VB;Barbara Pas;VB;1
+Denis Ducarme;MR;Marie Christine Marghem;MR;1
+Robby De Caluwé;Open Vld;Sander Loones;N-VA;1
+Catherine Fonck;Les Engagés;kathleen depoorter;N-VA;1
+Wouter De Vriendt;Ecolo-Groen;Kim Buyst;Ecolo-Groen;1
+Michael Freilich;N-VA;Darya Safai MP;N-VA;1
+kathleen depoorter;N-VA;Catherine Fonck;Les Engagés;1
+Séverine de Laveleye;Ecolo-Groen;Guillaume Defossé;Ecolo-Groen;1
+Els Van Hoof;cd&v;NawalFarih;cd&v;1
+Nahima Lanjri;cd&v;André Flahaut;PS;1
+Albert Vicaire;Ecolo-Groen;Nabil Boukili;PVDA-PTB;1
+Ben Segers;Vooruit;Theo Francken MP;N-VA;1
+Melissa Depraetere;Vooruit;Servais Verherstraeten;cd&v;1
+Ahmed Laaouej;PS;André Flahaut;PS;1
+Catherine Fonck;Les Engagés;Sander Loones;N-VA;1
+Valerie Van Peel;N-VA;Ben Segers;Vooruit;1
+Yngvild Ingels;N-VA;Ben Segers;Vooruit;1
+Christophe Lacroix;PS;Leslie Leoni;PS;1
+Wouter Beke;cd&v;Franky Demon;cd&v;1
+Franky Demon;cd&v;Wouter Beke;cd&v;1
+Theo Francken MP;N-VA;Ben Segers;Vooruit;1
+Nathalie Muylle;cd&v;NawalFarih;cd&v;1
+Theo Francken MP;N-VA;Joris Vandenbroucke;Vooruit;1
+Vicky Reynaert;Vooruit;Melissa Depraetere;Vooruit;1
+Claire Hugon;Ecolo-Groen;Sarah Schlitz;Ecolo-Groen;1
+Ben Achour Malik;PS;Marie Christine Marghem;MR;1
+Marie Christine Marghem;MR;Ben Achour Malik;PS;1
+Melissa Depraetere;Vooruit;Vicky Reynaert;Vooruit;1
+Gilles Vanden Burre;Ecolo-Groen;Sophie Rohonyi;DéFI;1
+Vanessa Matz;Les Engagés;Georges Dallemagne;Les Engagés;1
+Guillaume Defossé;Ecolo-Groen;Séverine de Laveleye;Ecolo-Groen;1
+Gilles Vanden Burre;Ecolo-Groen;Cécile Cornet;Ecolo-Groen;1
+Nahima Lanjri;cd&v;Koen Geens;cd&v;1
+NawalFarih;cd&v;Els Van Hoof;cd&v;1
+André Flahaut;PS;Nahima Lanjri;cd&v;1
+André Flahaut;PS;Guillaume Defossé;Ecolo-Groen;1
+André Flahaut;PS;Ahmed Laaouej;PS;1
+Jef Van den Bergh ;cd&v;Nathalie Muylle;cd&v;1
+Sarah Schlitz;Ecolo-Groen;Séverine de Laveleye;Ecolo-Groen;1
+Raoul Hedebouw;PVDA-PTB;Gaby Colebunders;PVDA-PTB;1
+Koen Geens;cd&v;Nathalie Muylle;cd&v;1
+Barbara Pas;VB;Wouter Vermeersch;VB;1
+NawalFarih;cd&v;Nathalie Muylle;cd&v;1
+Servais Verherstraeten;cd&v;Melissa Depraetere;Vooruit;1
+Tomas Roggeman;N-VA;Darya Safai MP;N-VA;1
+Nathalie Muylle;cd&v;Jef Van den Bergh ;cd&v;1
+Nathalie Muylle;cd&v;Koen Geens;cd&v;1
+Gaby Colebunders;PVDA-PTB;Raoul Hedebouw;PVDA-PTB;1
+Georges Dallemagne;Les Engagés;Vanessa Matz;Les Engagés;1
+Gilles Vanden Burre;Ecolo-Groen;Kristof Calvo;Ecolo-Groen;1
+Sander Loones;N-VA;Catherine Fonck;Les Engagés;1
+Cécile Cornet;Ecolo-Groen;Gilles Vanden Burre;Ecolo-Groen;1
+Guillaume Defossé;Ecolo-Groen;André Flahaut;PS;1
+Frieda Gijbels;N-VA;Robby De Caluwé;Open Vld;1
+Darya Safai MP;N-VA;Tomas Roggeman;N-VA;1
+Sarah Schlitz;Ecolo-Groen;Claire Hugon;Ecolo-Groen;1
+Kim Buyst;Ecolo-Groen;Wouter De Vriendt;Ecolo-Groen;1
+Nabil Boukili;PVDA-PTB;Albert Vicaire;Ecolo-Groen;1
+Ben Segers;Vooruit;Yngvild Ingels;N-VA;1

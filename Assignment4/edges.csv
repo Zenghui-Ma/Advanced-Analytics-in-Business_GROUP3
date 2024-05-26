@@ -1,0 +1,277 @@
+Source,Target,Type,Weight
+Sophie Rohonyi,François De Smet,Undirected,2016
+François De Smet,Sophie Rohonyi,Undirected,2016
+Raoul Hedebouw,Peter Mertens MP,Undirected,646
+Peter Mertens MP,Raoul Hedebouw,Undirected,646
+Sander Loones,Theo Francken MP,Undirected,352
+Theo Francken MP,Sander Loones,Undirected,352
+Raoul Hedebouw,Sofie Merckx,Undirected,324
+Sofie Merckx,Raoul Hedebouw,Undirected,324
+Darya Safai MP,Theo Francken MP,Undirected,80
+Theo Francken MP,Darya Safai MP,Undirected,80
+Sofie Merckx,Nabil Boukili,Undirected,80
+Nabil Boukili,Sofie Merckx,Undirected,80
+Catherine Fonck,Patrick Prévot,Undirected,72
+Patrick Prévot,Catherine Fonck,Undirected,72
+Anja Vanrobaeys,Joris Vandenbroucke,Undirected,40
+Joris Vandenbroucke,Anja Vanrobaeys,Undirected,40
+Peter Buysrogge ,Theo Francken MP,Undirected,32
+Ahmed Laaouej,Patrick Prévot,Undirected,32
+Theo Francken MP,Peter Buysrogge ,Undirected,32
+Patrick Prévot,Ahmed Laaouej,Undirected,32
+Séverine de Laveleye,Sophie Rohonyi,Undirected,30
+Sophie Rohonyi,Séverine de Laveleye,Undirected,30
+Theo Francken MP,Egbert Lachaert,Undirected,30
+Egbert Lachaert,Theo Francken MP,Undirected,30
+Catherine Fonck,Sophie Rohonyi,Undirected,28
+Michael Freilich,Theo Francken MP,Undirected,28
+Theo Francken MP,Michael Freilich,Undirected,28
+Sophie Rohonyi,Catherine Fonck,Undirected,28
+Kristien Van Vaerenbergh,Theo Francken MP,Undirected,24
+Theo Francken MP,Kristien Van Vaerenbergh,Undirected,24
+Sander Loones,Egbert Lachaert,Undirected,21
+Egbert Lachaert,Sander Loones,Undirected,21
+Roberto D'Amico,Sofie Merckx,Undirected,21
+Sofie Merckx,Roberto D'Amico,Undirected,21
+Nadia Moscufo,Sofie Merckx,Undirected,20
+Sofie Merckx,Nadia Moscufo,Undirected,20
+Sigrid Goethals,Theo Francken MP,Undirected,20
+Theo Francken MP,Sigrid Goethals,Undirected,20
+Tomas Roggeman,Theo Francken MP,Undirected,19
+Theo Francken MP,Tomas Roggeman,Undirected,19
+Theo Francken MP,Ortwin Depoortere,Undirected,18
+kathleen depoorter,Frieda Gijbels,Undirected,18
+Egbert Lachaert,Robby De Caluwé,Undirected,18
+Ortwin Depoortere,Theo Francken MP,Undirected,18
+Frieda Gijbels,kathleen depoorter,Undirected,18
+Robby De Caluwé,Egbert Lachaert,Undirected,18
+Ortwin Depoortere,Barbara Pas,Undirected,16
+Barbara Pas,Ortwin Depoortere,Undirected,16
+Ahmed Laaouej,Ben Achour Malik,Undirected,15
+Ben Achour Malik,Ahmed Laaouej,Undirected,15
+Barbara Pas,Dominiek Sneppe,Undirected,14
+Sophie Rohonyi,Marie Christine Marghem,Undirected,14
+Dominiek Sneppe,Barbara Pas,Undirected,14
+Marie Christine Marghem,Sophie Rohonyi,Undirected,14
+Georges Dallemagne,Catherine Fonck,Undirected,12
+Theo Francken MP,Denis Ducarme,Undirected,12
+Denis Ducarme,Theo Francken MP,Undirected,12
+Catherine Fonck,Georges Dallemagne,Undirected,12
+Joris De Vriendt,Barbara Pas,Undirected,11
+Barbara Pas,Joris De Vriendt,Undirected,11
+Barbara Pas,Frank Troosters,Undirected,11
+Frank Troosters,Barbara Pas,Undirected,11
+Gilles Vanden Burre,Séverine de Laveleye,Undirected,10
+Séverine de Laveleye,Gilles Vanden Burre,Undirected,10
+Maria Vindevoghel,Sofie Merckx,Undirected,10
+Sofie Merckx,Maria Vindevoghel,Undirected,10
+Joris De Vriendt,Katleen Bury,Undirected,9
+Sofie Merckx,Peter Mertens MP,Undirected,9
+Katleen Bury,Joris De Vriendt,Undirected,9
+Samuel Cogolati,Sarah Schlitz,Undirected,9
+Sarah Schlitz,Samuel Cogolati,Undirected,9
+Wouter Beke,Koen Geens,Undirected,9
+Frieda Gijbels,Theo Francken MP,Undirected,9
+Theo Francken MP,Frieda Gijbels,Undirected,9
+Peter Mertens MP,Sofie Merckx,Undirected,9
+Koen Geens,Wouter Beke,Undirected,9
+Frank Troosters,Ortwin Depoortere,Undirected,8
+Mieke Claes,Frieda Gijbels,Undirected,8
+Peter De Roover,Sander Loones,Undirected,8
+Sander Loones,Peter De Roover,Undirected,8
+Ortwin Depoortere,Frank Troosters,Undirected,8
+Frieda Gijbels,Mieke Claes,Undirected,8
+Koen Geens,Jef Van den Bergh ,Undirected,7
+Jef Van den Bergh ,Koen Geens,Undirected,7
+Peter De Roover,Sophie De Wit,Undirected,6
+Annick Ponthier,Barbara Pas,Undirected,6
+Eva Platteau,Theo Francken MP,Undirected,6
+Theo Francken MP,Eva Platteau,Undirected,6
+Piedboeuf Benoît,Sophie Wilmès,Undirected,6
+Sophie Wilmès,Piedboeuf Benoît,Undirected,6
+Valerie Van Peel,Catherine Fonck,Undirected,6
+Samuel Cogolati,Gilles Vanden Burre,Undirected,6
+Marco Van Hees,Marie Christine Marghem,Undirected,6
+Marie Christine Marghem,Marco Van Hees,Undirected,6
+Barbara Pas,Annick Ponthier,Undirected,6
+Maxime PREVOT,François De Smet,Undirected,6
+Catherine Fonck,Valerie Van Peel,Undirected,6
+Sophie De Wit,Peter De Roover,Undirected,6
+Gilles Vanden Burre,Samuel Cogolati,Undirected,6
+François De Smet,Maxime PREVOT,Undirected,6
+Melissa Depraetere,Joris Vandenbroucke,Undirected,5
+Servais Verherstraeten,Koen Geens,Undirected,5
+Koen Geens,Servais Verherstraeten,Undirected,5
+Katja Gabriëls,Egbert Lachaert,Undirected,5
+Egbert Lachaert,Katja Gabriëls,Undirected,5
+Joris Vandenbroucke,Melissa Depraetere,Undirected,5
+Barbara Pas,Hans Verreyt,Undirected,4
+Daniel Bacquelaine,Mathieu Bihet,Undirected,4
+Mathieu Bihet,Daniel Bacquelaine,Undirected,4
+Hans Verreyt,Barbara Pas,Undirected,4
+Koen Geens,Katja Gabriëls,Undirected,4
+Tim Vandenput,Theo Francken MP,Undirected,4
+Khalil Aouasti,Ahmed Laaouej,Undirected,4
+Sofie Merckx,Greet Daems,Undirected,4
+Katja Gabriëls,Koen Geens,Undirected,4
+Ahmed Laaouej,Khalil Aouasti,Undirected,4
+Theo Francken MP,Tim Vandenput,Undirected,4
+Frank Troosters,Annick Ponthier,Undirected,4
+Greet Daems,Sofie Merckx,Undirected,4
+Annick Ponthier,Frank Troosters,Undirected,4
+Piedboeuf Benoît,Marie Christine Marghem,Undirected,3
+Catherine Fonck,Sofie Merckx,Undirected,3
+Tomas Roggeman,Peter De Roover,Undirected,3
+Theo Francken MP,Kris Verduyckt,Undirected,3
+Marie Christine Marghem,Piedboeuf Benoît,Undirected,3
+Egbert Lachaert,Koen Geens,Undirected,3
+Peter De Roover,Tomas Roggeman,Undirected,3
+Katja Gabriëls,Robby De Caluwé,Undirected,3
+Tania De Jonge,Vincent Van Quickenborne,Undirected,3
+Koen Geens,Egbert Lachaert,Undirected,3
+Tania De Jonge,Maggie De Block,Undirected,3
+Vincent Van Quickenborne,Tania De Jonge,Undirected,3
+Nathalie Muylle,Franky Demon,Undirected,3
+Franky Demon,Nathalie Muylle,Undirected,3
+Robby De Caluwé,Katja Gabriëls,Undirected,3
+Sofie Merckx,Catherine Fonck,Undirected,3
+Maggie De Block,Tania De Jonge,Undirected,3
+Kris Verduyckt,Theo Francken MP,Undirected,3
+Kristof Calvo,Ben Segers,Undirected,2
+Michael Freilich,kathleen depoorter,Undirected,2
+Guillaume Defossé,Piedboeuf Benoît,Undirected,2
+Ben Segers,Kristof Calvo,Undirected,2
+Peter De Roover,Frieda Gijbels,Undirected,2
+Michael Freilich,Egbert Lachaert,Undirected,2
+kathleen depoorter,Michael Freilich,Undirected,2
+dieter van besien,Theo Francken MP,Undirected,2
+Hans Verreyt,Wouter Vermeersch,Undirected,2
+Els Van Hoof,Nahima Lanjri,Undirected,2
+Els Van Hoof,Egbert Lachaert,Undirected,2
+Wouter De Vriendt,Peter Buysrogge ,Undirected,2
+Sofie Merckx,Mathieu Bihet,Undirected,2
+Annick Ponthier,Marijke Dillen,Undirected,2
+Sophie De Wit,kathleen depoorter,Undirected,2
+Wouter Beke,Nathalie Muylle,Undirected,2
+Jean Marie Dedecker,Theo Francken MP,Undirected,2
+François De Smet,Theo Francken MP,Undirected,2
+François De Smet,Catherine Fonck,Undirected,2
+Joris Vandenbroucke,Wim Van der Donckt,Undirected,2
+Theo Francken MP,dieter van besien,Undirected,2
+Egbert Lachaert,Michael Freilich,Undirected,2
+Samuel Cogolati,Els Van Hoof,Undirected,2
+Joris Vandenbroucke,Tomas Roggeman,Undirected,2
+Hervé Rigot,Philippe Goffin,Undirected,2
+Philippe Goffin,Hervé Rigot,Undirected,2
+Thémont Sophie,Christophe Lacroix,Undirected,2
+Catherine Fonck,François De Smet,Undirected,2
+Joris De Vriendt,Pieter De Spiegeleer,Undirected,2
+Wouter Vermeersch,Hans Verreyt,Undirected,2
+Raoul Hedebouw,Nadia Moscufo,Undirected,2
+Frieda Gijbels,Peter De Roover,Undirected,2
+Theo Francken MP,Jean Marie Dedecker,Undirected,2
+Mathieu Bihet,Sophie Wilmès,Undirected,2
+Mathieu Bihet,Gilles Vanden Burre,Undirected,2
+Peter Buysrogge ,Wouter De Vriendt,Undirected,2
+Vincent Van Quickenborne,Peter De Roover,Undirected,2
+Mathieu Bihet,Sofie Merckx,Undirected,2
+Reccino Van Lommel,Hans Verreyt,Undirected,2
+Barbara Pas,Katleen Bury,Undirected,2
+Joris Vandenbroucke,Catherine Fonck,Undirected,2
+Catherine Fonck,Joris Vandenbroucke,Undirected,2
+Nahima Lanjri,Els Van Hoof,Undirected,2
+Patrick Prévot,Denis Ducarme,Undirected,2
+Tomas Roggeman,Eliane Tillieux,Undirected,2
+kathleen depoorter,Sophie De Wit,Undirected,2
+Christophe Lacroix,Thémont Sophie,Undirected,2
+Egbert Lachaert,Els Van Hoof,Undirected,2
+Eliane Tillieux,Tomas Roggeman,Undirected,2
+Sophie Wilmès,Mathieu Bihet,Undirected,2
+Marijke Dillen,Annick Ponthier,Undirected,2
+Gilles Vanden Burre,Mathieu Bihet,Undirected,2
+Guillaume Defossé,Kristof Calvo,Undirected,2
+Tomas Roggeman,Joris Vandenbroucke,Undirected,2
+Nadia Moscufo,Raoul Hedebouw,Undirected,2
+Peter De Roover,Vincent Van Quickenborne,Undirected,2
+Hans Verreyt,Reccino Van Lommel,Undirected,2
+Piedboeuf Benoît,Guillaume Defossé,Undirected,2
+Denis Ducarme,Patrick Prévot,Undirected,2
+Els Van Hoof,Samuel Cogolati,Undirected,2
+Wim Van der Donckt,Joris Vandenbroucke,Undirected,2
+Theo Francken MP,François De Smet,Undirected,2
+Pieter De Spiegeleer,Joris De Vriendt,Undirected,2
+Nathalie Muylle,Wouter Beke,Undirected,2
+Kristof Calvo,Guillaume Defossé,Undirected,2
+Katleen Bury,Barbara Pas,Undirected,2
+Séverine de Laveleye,Sarah Schlitz,Undirected,1
+Robby De Caluwé,Frieda Gijbels,Undirected,1
+Marie Christine Marghem,Denis Ducarme,Undirected,1
+Barbara Pas,Theo Francken MP,Undirected,1
+Sander Loones,Robby De Caluwé,Undirected,1
+Darya Safai MP,Michael Freilich,Undirected,1
+Theo Francken MP,Barbara Pas,Undirected,1
+Koen Geens,Nahima Lanjri,Undirected,1
+Leslie Leoni,Christophe Lacroix,Undirected,1
+Sophie Rohonyi,Gilles Vanden Burre,Undirected,1
+Kristof Calvo,Gilles Vanden Burre,Undirected,1
+Ben Segers,Valerie Van Peel,Undirected,1
+Joris Vandenbroucke,Theo Francken MP,Undirected,1
+Wouter Vermeersch,Barbara Pas,Undirected,1
+Denis Ducarme,Marie Christine Marghem,Undirected,1
+Robby De Caluwé,Sander Loones,Undirected,1
+Catherine Fonck,kathleen depoorter,Undirected,1
+Wouter De Vriendt,Kim Buyst,Undirected,1
+Michael Freilich,Darya Safai MP,Undirected,1
+kathleen depoorter,Catherine Fonck,Undirected,1
+Séverine de Laveleye,Guillaume Defossé,Undirected,1
+Els Van Hoof,NawalFarih,Undirected,1
+Nahima Lanjri,André Flahaut,Undirected,1
+Albert Vicaire,Nabil Boukili,Undirected,1
+Ben Segers,Theo Francken MP,Undirected,1
+Melissa Depraetere,Servais Verherstraeten,Undirected,1
+Ahmed Laaouej,André Flahaut,Undirected,1
+Catherine Fonck,Sander Loones,Undirected,1
+Valerie Van Peel,Ben Segers,Undirected,1
+Yngvild Ingels,Ben Segers,Undirected,1
+Christophe Lacroix,Leslie Leoni,Undirected,1
+Wouter Beke,Franky Demon,Undirected,1
+Franky Demon,Wouter Beke,Undirected,1
+Theo Francken MP,Ben Segers,Undirected,1
+Nathalie Muylle,NawalFarih,Undirected,1
+Theo Francken MP,Joris Vandenbroucke,Undirected,1
+Vicky Reynaert,Melissa Depraetere,Undirected,1
+Claire Hugon,Sarah Schlitz,Undirected,1
+Ben Achour Malik,Marie Christine Marghem,Undirected,1
+Marie Christine Marghem,Ben Achour Malik,Undirected,1
+Melissa Depraetere,Vicky Reynaert,Undirected,1
+Gilles Vanden Burre,Sophie Rohonyi,Undirected,1
+Vanessa Matz,Georges Dallemagne,Undirected,1
+Guillaume Defossé,Séverine de Laveleye,Undirected,1
+Gilles Vanden Burre,Cécile Cornet,Undirected,1
+Nahima Lanjri,Koen Geens,Undirected,1
+NawalFarih,Els Van Hoof,Undirected,1
+André Flahaut,Nahima Lanjri,Undirected,1
+André Flahaut,Guillaume Defossé,Undirected,1
+André Flahaut,Ahmed Laaouej,Undirected,1
+Jef Van den Bergh ,Nathalie Muylle,Undirected,1
+Sarah Schlitz,Séverine de Laveleye,Undirected,1
+Raoul Hedebouw,Gaby Colebunders,Undirected,1
+Koen Geens,Nathalie Muylle,Undirected,1
+Barbara Pas,Wouter Vermeersch,Undirected,1
+NawalFarih,Nathalie Muylle,Undirected,1
+Servais Verherstraeten,Melissa Depraetere,Undirected,1
+Tomas Roggeman,Darya Safai MP,Undirected,1
+Nathalie Muylle,Jef Van den Bergh ,Undirected,1
+Nathalie Muylle,Koen Geens,Undirected,1
+Gaby Colebunders,Raoul Hedebouw,Undirected,1
+Georges Dallemagne,Vanessa Matz,Undirected,1
+Gilles Vanden Burre,Kristof Calvo,Undirected,1
+Sander Loones,Catherine Fonck,Undirected,1
+Cécile Cornet,Gilles Vanden Burre,Undirected,1
+Guillaume Defossé,André Flahaut,Undirected,1
+Frieda Gijbels,Robby De Caluwé,Undirected,1
+Darya Safai MP,Tomas Roggeman,Undirected,1
+Sarah Schlitz,Claire Hugon,Undirected,1
+Kim Buyst,Wouter De Vriendt,Undirected,1
+Nabil Boukili,Albert Vicaire,Undirected,1
+Ben Segers,Yngvild Ingels,Undirected,1
